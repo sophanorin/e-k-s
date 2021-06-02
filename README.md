@@ -2,9 +2,9 @@
 
 Made with :heart: by [Sophanorin](https://web.facebook.com/Heou.sophanorin)
 
-## Demo
+## Live Demo
 
-Demo link : [Click here](https://blissful-pare-72a827.netlify.app/)
+Demo Link: [Click here](https://blissful-pare-72a827.netlify.app/)
 
 ## Description
 This's a full-stack application using MERN (MongoDB, Express, React, Node) stack that includes SendGrid for mailing to the user. It has an additional feature if you log in as admin, In order to login as an administrator you can use this account below :
