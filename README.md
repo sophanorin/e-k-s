@@ -8,7 +8,7 @@ This's a full-stack application using MERN (MongoDB, Express, React, Node) stack
  - Email: admin@admin.com 
  - Password: admin1234
 
-This application have two seperate part :
+This application have two seperate modules :
 1. **e-k-s-client** : https://github.com/Sophanorin/e-k-s-client.git
 2. **e-k-s-server** : https://github.com/Sophanorin/e-k-s-server.git
 
@@ -17,7 +17,7 @@ This application have two seperate part :
 - Admin :
   - Product Management (CRUD..)
   - View Order
-  - more...
+  - More...
 
 ## Contact 
 
